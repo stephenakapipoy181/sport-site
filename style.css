@@ -8,3 +8,15 @@ h1{
     text-align:center;
     margin:200px auto;
 }
+
+header{
+    height:100px;
+    display:flex;
+    align-items: center;
+    justify-content:center;
+    font-weight:bold;
+    text-align:center;
+    font-size:30px;
+    background:green;
+    color:#fff;
+}
